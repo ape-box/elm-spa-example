@@ -28,3 +28,5 @@ Then, to build everything:
 > elm-live --output=elm.js src/Main.elm --pushstate --open --debug
 
 (Leave off the `--debug` if you don't want the time-traveling debugger.)
+
+OriginalArticle: https://teamgaslight.com/blog/elm-elixir-and-phoenix-reflecting-on-a-functional-full-stack-project
